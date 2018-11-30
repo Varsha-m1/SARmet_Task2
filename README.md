@@ -26,7 +26,7 @@ Concepts you need to know:
 
 4. Use the orginal **720x1280.jpg** image and programmatically crop the image to 240x1280 pixels. Use the resultant cropped image to perform edge detection with any of the algorithms you prefer. (Mention the algorithm you use) 
 
-5. Perform **Canny Edge Detection** on the orginal **720x1280.jpg** image and performt the following
+5. Perform **Canny Edge Detection** on the orginal **720x1280.jpg** image and perform the following
 
     * Set the L2Gradient in the Canny Edge detector to **True** and save the result.
     * Use **5** different minimum and maximum thresholds and save the these 5 images. 
