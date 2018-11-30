@@ -23,7 +23,7 @@ Concepts you need to know:
 
 2. During the display of the real time feed, you will observe a lag in display of this real time feed. Suggest methods to overcome this lag and implement one of them. 
 
-3. Find the image named **720x1280.jpg** in the repository. Perform rotation around the X Axis and Y Axis and save as two different images. Thereafter, **subtract** these two images and save the resultant image.  
+3. Find the image named **720x1280.jpg** in the repository. Flip the images around the X Axis and Y Axis and save as two different images. Thereafter, **subtract** these two images and save the resultant image.  
 
 4. Use the orginal **720x1280.jpg** image and programmatically crop the image to 240x1280 pixels. Use the resultant cropped image to perform edge detection with any of the algorithms you prefer. (Mention the algorithm you use) 
 
