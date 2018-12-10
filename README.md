@@ -39,7 +39,7 @@ Concepts you need to know:
 2. Create **subfolders for each task**.
 
     * Task one - save the program and the 5 sec video you captured. (1 program, 1 video file)
-    * Task two - save the program the video without the lag (1 program, 1 video file) 
+    * Task two - list all the suggestions,save the program the video without the lag (1 readme.md,1 program, 1 video file) 
     * Task three - save the program, the image rotated about the X axis, Y axis and the resultant difference image (1 program, 3 images)
     * Task four - save the program, cropped image, edge detected image (1 program, 2 images)
     * Task five - save the program, L2Gradient image, 5 different thresholded images, 4 Sobel operator image (1 program, 10 images)
